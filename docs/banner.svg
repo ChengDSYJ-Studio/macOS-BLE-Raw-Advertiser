@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">macOS BLE Raw Advertiser</title>
+  <desc id="desc">Native Bluetooth, raw advertising data and service data. Version 1.0.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071a38"/><stop offset="1" stop-color="#12366b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#76d7ff"/><stop offset="1" stop-color="#80a8ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <path d="M0 226H1200M0 250H1200" stroke="#456aa3" opacity=".12"/>
+  <circle cx="1040" cy="140" r="102" fill="none" stroke="#73bdff" opacity=".12"/>
+  <circle cx="1040" cy="140" r="73" fill="none" stroke="#73bdff" opacity=".2"/>
+  <rect x="48" y="43" width="91" height="25" rx="5" fill="#244b80"/>
+  <text x="93.5" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#b9dfff">NATIVE BLE</text>
+  <text x="48" y="126" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f9ff">macOS BLE Raw Advertiser</text>
+  <text x="50" y="166" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#b4cbea">Raw advertising. Service data. Built-in Bluetooth.</text>
+  <rect x="49" y="204" width="135" height="30" rx="6" fill="#1e467c"/>
+  <text x="116.5" y="224" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#d7e8ff">Apple Silicon</text>
+  <rect x="195" y="204" width="127" height="30" rx="6" fill="#1e467c"/>
+  <text x="258.5" y="224" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#d7e8ff">ADV + SCAN_RSP</text>
+  <rect x="333" y="204" width="66" height="30" rx="6" fill="#1e467c"/>
+  <text x="366" y="224" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#d7e8ff">v1.0</text>
+  <path d="M1027 91L1063 122L1016 162L1047 189V91L1016 118L1063 159L1027 189" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M978 108Q957 140 978 172M1102 108Q1123 140 1102 172" fill="none" stroke="#8dcfff" stroke-width="3" opacity=".65" stroke-linecap="round"/>
+</svg>

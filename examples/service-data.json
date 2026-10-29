@@ -1,0 +1,6 @@
+{
+  "name": "RawBLELab",
+  "description": "Flags and service data in ADV; complete local name in SCAN_RSP.",
+  "advertisingDataHex": "0201060716F0FF01020304",
+  "scanResponseDataHex": "0A09526177424C454C6162"
+}

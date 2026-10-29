@@ -1,0 +1,14 @@
+{
+  "id": "macos-26.4-25E246-arm64",
+  "build": "25E246",
+  "architecture": "arm64",
+  "daemon": "/usr/sbin/bluetoothd",
+  "sha256": "f5384e7ea60fb2069956481a041b62fa0683769029ff60c150afcc5b6d6ce92f",
+  "moduleUUID": "454D90AC-9404-388D-9927-D6715D280666",
+  "gateFileAddresses": ["0x10060F08C", "0x10060F158"],
+  "instructionBytes": "48ff42391f05007161010054",
+  "sessionRegister": "x26",
+  "pidOffset": 40,
+  "flagOffset": 191,
+  "timeoutSeconds": 25
+}
